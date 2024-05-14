@@ -5,13 +5,6 @@ title: آموزش کار با نرم افزار V2rayNG
 <div dir="rtl" markdown="1">
 
 # آموزش کار با نرم افزار V2rayNG
-این برنامه یک اپ نسبتا خوب برای اتصال به کانفیگ‌های مبتنی بر Xray می‌باشد ولی توصیه می‌شود از اپ جایگزین [HiddifyNG](/fa/manager/client-software-on-android/Tutorial-for-HiddifyNG-app/) استفاده نمایید.
-
-## دانلود نرم‌افزار
-برای این کار در پنل کاربری خود وارد بخش HiddifyNG شوید و سپس `نرم‌افزار جایگزین V2rayNG` را باز کنید و روی `دانلود مستقیم` بزنید تا برنامه دانلود شود.
-<div align=center markdown=1>
-<img width=30% src="https://github.com/hiddify/hiddify-config/assets/125398461/39010cbd-1ccf-4867-b419-53b5a87d55f2" />
-</div>
 
 
 ## نصب نرم‌افزار
